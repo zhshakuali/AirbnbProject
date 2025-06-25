@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F5404952E0C0C1200841DBD /* SearchAndFilterBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5404942E0C0C1200841DBD /* SearchAndFilterBar.swift */; };
 		9F83CC332E05A2930031C14F /* AirbnbProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F83CC322E05A2930031C14F /* AirbnbProjectApp.swift */; };
 		9F83CC352E05A2930031C14F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F83CC342E05A2930031C14F /* ContentView.swift */; };
 		9F83CC372E05A2940031C14F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F83CC362E05A2940031C14F /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F5404942E0C0C1200841DBD /* SearchAndFilterBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAndFilterBar.swift; sourceTree = "<group>"; };
 		9F83CC2F2E05A2930031C14F /* AirbnbProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AirbnbProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F83CC322E05A2930031C14F /* AirbnbProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirbnbProjectApp.swift; sourceTree = "<group>"; };
 		9F83CC342E05A2930031C14F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				9F83CC422E0865FB0031C14F /* ExploreView.swift */,
+				9F5404942E0C0C1200841DBD /* SearchAndFilterBar.swift */,
 			);
 			path = Explore;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				9F83CC462E0B2E6C0031C14F /* ListingItemView.swift in Sources */,
 				9F83CC352E05A2930031C14F /* ContentView.swift in Sources */,
 				9F83CC432E0865FC0031C14F /* ExploreView.swift in Sources */,
+				9F5404952E0C0C1200841DBD /* SearchAndFilterBar.swift in Sources */,
 				9F83CC332E05A2930031C14F /* AirbnbProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
